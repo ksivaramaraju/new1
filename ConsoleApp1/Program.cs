@@ -25,7 +25,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("siva made changes again");
         }
-
+        static void hello()
+        {
+            Console.WriteLine("Changed Made by Bhavin Nirmal");
+        }
 
         public void Akshu()
         {
