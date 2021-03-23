@@ -21,5 +21,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Vithal has changed the code");
         }
+         static void hi()
+        {
+            Console.WriteLine("siva made changes again");
+        }
     }
 }
