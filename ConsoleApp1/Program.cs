@@ -17,5 +17,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("jenkins demo by siva");
         }
+        public void new1()
+        {
+            Console.WriteLine("Vithal has changed the code");
+        }
     }
 }
