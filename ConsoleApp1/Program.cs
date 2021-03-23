@@ -13,5 +13,9 @@ namespace ConsoleApp1
             Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaa");
             Console.WriteLine("Hello from Bhavin Nirmal");
         }
+        static void jenkins()
+        {
+            Console.WriteLine("jenkins demo by siva");
+        }
     }
 }
